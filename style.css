@@ -1,0 +1,25 @@
+ul {
+    /* border: 1px solid;
+    padding: 50px; */
+    list-style: none;
+}
+
+
+li {
+    border: solid 1px;
+    /* margin-bottom: 10px; */
+}
+
+#dummy{
+    border: none;
+    opacity: 0;
+}
+
+.space {
+    border: 2px solid orange;
+    color: red;
+}
+
+.old {
+    border:none;
+}
